@@ -1,53 +1,109 @@
-# 👋 Hi, I'm Swapnil Pawar  
+<h1 align="center">Hi, I'm Swapnil Pawar 👋</h1>
 
-🎓 BCA Final Year Student (2026)  
-💻 Aspiring Analyst Trainee | SQL | DBMS | Application Support  
-📍 Maharashtra, India  
+<p align="center">
+  💻 <b>Java Backend Developer | Spring Boot | REST APIs</b><br/>
+  🚀 Building scalable, secure backend systems<br/>
+  🎓 BCA Final Year @ NMU Jalgaon (CGPA: 9.17/10)<br/>
+  📍 Dhule, Maharashtra | Open to Relocation<br/>
+  📧 swapnilpawar0204@gmail.com
+</p>
 
 ---
 
 ## 🚀 About Me
-I am a detail-oriented BCA student with a strong foundation in SQL, DBMS, and Java.  
-I have hands-on experience in designing relational databases, writing complex SQL queries (Joins, Subqueries, Group By), and developing REST APIs using Spring Boot and MySQL.
 
-I am interested in IT Operations, Application Support, and Database Management roles where I can apply analytical and problem-solving skills.
-
----
-
-## 🛠 Technical Skills
-- **Programming:** Java, SQL, Python (Basic)
-- **Database:** MySQL, PostgreSQL (Basic)
-- **Concepts:** DBMS, OOPS, Data Structures
-- **Backend:** Spring Boot, REST APIs
-- **Testing:** Postman, Test Case Preparation
-- **Tools:** Git, GitHub, VS Code, Eclipse
-- **Basic Knowledge:** Linux, Networking
+- 🎓 Final year BCA student graduating in May 2026  
+- 💻 Backend Developer specializing in **Java & Spring Boot**  
+- ⚡ Experienced in building **scalable, secure REST APIs**  
+- 🩸 Developed **Blood Buddy** – a full-stack blood donation platform  
+- 🌾 Currently building **Krushi Seva** – farmer support system  
+- 🔍 Actively seeking **Java Backend Developer / Backend Engineer roles**  
 
 ---
 
-## 📌 Projects
+## 🧠 Core Skills
 
-### 🔹 Krushi Seva – Farmer Support Web Application
-- Developed full-stack application using React.js and Spring Boot
-- Implemented CRUD operations and REST APIs
-- Designed MySQL database schema and wrote SQL queries
-- Performed API testing and debugging
-
-### 🔹 Blood Buddy – Blood Donation Management System
-- Built donor registration and search system
-- Designed REST APIs and integrated MySQL database
-- Implemented authentication and validation
-- Conducted API testing using Postman
+- Backend Development with **Java & Spring Boot**  
+- REST API Design & Development  
+- Database Design & Query Optimization  
+- Authentication & Authorization (JWT, Role-based Access)  
+- Data Structures & Problem Solving  
 
 ---
 
-## 📊 Currently Improving
-- Advanced SQL Queries
-- Problem Solving & Data Structures
-- IT Service Management Basics
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Languages** | Java · SQL · JavaScript · Python |
+| **Frameworks** | Spring Boot · React.js · Spring Data JPA |
+| **Databases** | MySQL · PostgreSQL · MongoDB |
+| **Tools** | Git · Postman · VS Code · Eclipse |
+| **Concepts** | OOP · DSA · DBMS · REST APIs |
 
 ---
 
-## 📫 Connect With Me
-📧 Email: swapnilpawar0204@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/swapnil-pawar-a2907a326  
+## 📌 Featured Projects
+
+### 🩸 Blood Buddy – Blood Donation Management System  
+> Java · Spring Boot · React.js · MySQL · REST APIs  
+
+- Designed and developed **layered backend architecture** (Controller → Service → Repository)  
+- Built **scalable REST APIs** for donor and blood request management  
+- Implemented **JWT-based authentication & role-based authorization**  
+- Optimized **MySQL database schema** for efficient data handling  
+- Integrated React frontend with backend APIs  
+
+🔗 GitHub: https://github.com/your-username/blood-buddy  
+🌐 Live Demo: (Add if deployed)
+
+---
+
+### 🌾 Krushi Seva – Farmer Support Platform  
+> Java · Spring Boot · MySQL  
+
+- Developing **modular and scalable backend APIs**  
+- Designing **efficient database structure** for agricultural workflows  
+- Applying **clean architecture principles** for maintainability  
+
+🔗 GitHub: https://github.com/your-username/krushi-seva  
+🚧 Currently in development  
+
+---
+
+## 🧩 Problem Solving
+
+- Solved **200+ DSA problems** on platforms like LeetCode / GFG  
+- Strong in **Arrays, Strings, Recursion, and Trees**  
+- Regularly practicing **coding interview questions**
+
+---
+
+## 🏆 Achievements
+
+- 🎓 CGPA **9.17 / 10** (Academic Excellence)  
+- 💻 Built **full-stack production-ready applications**  
+- 🚀 Strong foundation in **backend development & system design basics**  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swapnilpawar0204&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=swapnilpawar0204&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/swapnil-pawar-a2907a326">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:swapnilpawar0204@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>

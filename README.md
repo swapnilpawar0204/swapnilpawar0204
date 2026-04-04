@@ -54,8 +54,6 @@
 - Optimized **MySQL database schema** for efficient data handling  
 - Integrated React frontend with backend APIs  
 
-🔗 GitHub: https://github.com/your-username/blood-buddy  
-🌐 Live Demo: (Add if deployed)
 
 ---
 
@@ -66,8 +64,6 @@
 - Designing **efficient database structure** for agricultural workflows  
 - Applying **clean architecture principles** for maintainability  
 
-🔗 GitHub: https://github.com/your-username/krushi-seva  
-🚧 Currently in development  
 
 ---
 

@@ -1,105 +1,281 @@
-<h1 align="center">Hi, I'm Swapnil Pawar 👋</h1>
+# Hi, I'm Swapnil Pawar 👋
 
-<p align="center">
-  💻 <b>Java Backend Developer | Spring Boot | REST APIs</b><br/>
-  🚀 Building scalable, secure backend systems<br/>
-  🎓 BCA Final Year @ NMU Jalgaon (CGPA: 9.17/10)<br/>
-  📍 Dhule, Maharashtra | Open to Relocation<br/>
-  📧 swapnilpawar0204@gmail.com
-</p>
+💻 Java Backend Developer | Aspiring Data Engineer
+⚡ Spring Boot | SQL | ETL Pipelines | REST APIs
+🎓 BCA Final Year Student @ KBC North Maharashtra University, Jalgaon (CGPA: 9.17/10)
+📍 Dhule, Maharashtra, India | Open to Relocation
+📧 [swapnilpawar0204@gmail.com](mailto:swapnilpawar0204@gmail.com)
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Final year BCA student graduating in May 2026  
-- 💻 Backend Developer specializing in **Java & Spring Boot**  
-- ⚡ Experienced in building **scalable, secure REST APIs**  
-- 🩸 Developed **Blood Buddy** – a full-stack blood donation platform  
-- 🌾 Currently building **Krushi Seva** – farmer support system  
-- 🔍 Actively seeking **Java Backend Developer / Backend Engineer roles**  
+I am a final year Bachelor of Computer Applications (BCA) student graduating in 2026 with strong interest in backend development, data engineering, and scalable application design.
 
----
+I enjoy building:
 
-## 🧠 Core Skills
+* Java backend applications using Spring Boot
+* RESTful APIs and database-driven systems
+* ETL pipelines and data processing workflows
+* Cloud-based data integration solutions
 
-- Backend Development with **Java & Spring Boot**  
-- REST API Design & Development  
-- Database Design & Query Optimization  
-- Authentication & Authorization (JWT, Role-based Access)  
-- Data Structures & Problem Solving  
+Currently focused on:
 
----
-
-## 🛠️ Tech Stack
-
-| Category | Technologies |
-|---|---|
-| **Languages** | Java · SQL · JavaScript · Python |
-| **Frameworks** | Spring Boot · React.js · Spring Data JPA |
-| **Databases** | MySQL · PostgreSQL · MongoDB |
-| **Tools** | Git · Postman · VS Code · Eclipse |
-| **Concepts** | OOP · DSA · DBMS · REST APIs |
+* Java Backend Development
+* Spring Boot & REST APIs
+* SQL Optimization
+* ETL / ELT Pipelines
+* Azure Data Factory (ADF)
+* Data Engineering Fundamentals
 
 ---
 
-## 📌 Featured Projects
+# 🧠 Core Skills
 
-### 🩸 Blood Buddy – Blood Donation Management System  
-> Java · Spring Boot · React.js · MySQL · REST APIs  
+## Backend Development
 
-- Designed and developed **layered backend architecture** (Controller → Service → Repository)  
-- Built **scalable REST APIs** for donor and blood request management  
-- Implemented **JWT-based authentication & role-based authorization**  
-- Optimized **MySQL database schema** for efficient data handling  
-- Integrated React frontend with backend APIs  
+* Java
+* Spring Boot
+* REST APIs
+* Spring Data JPA
+* Hibernate
+* Layered Architecture
+* CRUD Operations
+* Exception Handling
+* API Integration
 
+## Data Engineering & Analytics
+
+* ETL / ELT Pipelines
+* Data Ingestion
+* Data Transformation
+* Data Validation & Reconciliation
+* Workflow Automation
+* Pipeline Monitoring
+* Data Warehousing Concepts
+* Reporting & Analytics
+
+## Databases
+
+* MySQL
+* PostgreSQL
+* MongoDB
+* SQL Server
+* Snowflake
+
+## Cloud & Tools
+
+* Microsoft Azure
+* Azure Data Factory (ADF)
+* Git & GitHub
+* Postman
+* Maven
+* VS Code
+* Eclipse
+* REST APIs
+
+## Programming Languages
+
+* Java
+* SQL
+* Python (Pandas, NumPy)
+* JavaScript
+
+## Computer Science Fundamentals
+
+* Data Structures & Algorithms
+* OOP
+* DBMS
+* Operating Systems
+* Computer Networks
+* SDLC
+* Agile Basics
 
 ---
 
-### 🌾 Krushi Seva – Farmer Support Platform  
-> Java · Spring Boot · MySQL  
+# 🛠️ Tech Stack
 
-- Developing **modular and scalable backend APIs**  
-- Designing **efficient database structure** for agricultural workflows  
-- Applying **clean architecture principles** for maintainability  
-
-
----
-
-## 🧩 Problem Solving
-
-- Solved **200+ DSA problems** on platforms like LeetCode / GFG  
-- Strong in **Arrays, Strings, Recursion, and Trees**  
-- Regularly practicing **coding interview questions**
+| Category     | Technologies                                             |
+| ------------ | -------------------------------------------------------- |
+| Languages    | Java, SQL, Python, JavaScript                            |
+| Backend      | Spring Boot, REST APIs, Spring Data JPA, Hibernate       |
+| Frontend     | React.js, HTML5, CSS3, Tailwind CSS, Bootstrap           |
+| Databases    | MySQL, PostgreSQL, MongoDB, SQL Server, Snowflake        |
+| Cloud & Data | Microsoft Azure, Azure Data Factory (ADF), ETL Pipelines |
+| Tools        | Git, GitHub, Maven, Postman, VS Code, Eclipse            |
+| Concepts     | OOP, DSA, DBMS, Data Warehousing, Workflow Automation    |
 
 ---
 
-## 🏆 Achievements
+# 📌 Featured Projects
 
-- 🎓 CGPA **9.17 / 10** (Academic Excellence)  
-- 💻 Built **full-stack production-ready applications**  
-- 🚀 Strong foundation in **backend development & system design basics**  
+## 🩸 Blood Buddy – Blood Donation Management System
+
+**Java · Spring Boot · React.js · MySQL · REST APIs**
+
+A full-stack blood donation management platform designed to simplify donor registration, blood requests, and real-time blood availability tracking.
+
+### Key Features
+
+* Donor registration and management
+* Blood request handling
+* Real-time blood availability tracking
+* RESTful backend APIs
+* Database-driven architecture
+* Frontend and backend integration
+
+### Technical Highlights
+
+* Implemented layered architecture (Controller → Service → Repository)
+* Designed optimized relational database schema
+* Integrated frontend with backend APIs
+* Added input validation and exception handling
+* Built scalable backend modules for managing donor records
 
 ---
 
-## 📊 GitHub Stats
+## 🌾 Krushi Seva – Farmer Support Platform
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swapnilpawar0204&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=swapnilpawar0204&theme=tokyonight" />
-</p>
+**Java · Spring Boot · REST APIs · MySQL**
+
+A backend-focused agricultural support platform for managing farmer-related services and workflows.
+
+### Key Features
+
+* Modular backend API development
+* CRUD-based workflow management
+* Scalable database structure
+* Maintainable clean architecture
+
+### Technical Highlights
+
+* Developed structured REST APIs using Spring Boot
+* Designed scalable database schema
+* Followed modular architecture principles
+* Focused on maintainability and future scalability
 
 ---
 
-## 🤝 Connect With Me
+## 📊 Billing Data Migration Pipeline
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/swapnil-pawar-a2907a326">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:swapnilpawar0204@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+**Python · SQL · REST APIs · ETL Pipeline**
+
+An ETL pipeline project designed for processing, validating, transforming, and migrating billing data efficiently.
+
+### Key Features
+
+* Data ingestion and transformation
+* JSON data conversion
+* REST API integration
+* Logging and monitoring
+* Data validation workflows
+
+### Technical Highlights
+
+* Processed 1,000+ records efficiently
+* Reduced data errors using validation and cleansing techniques
+* Built automated transformation workflows
+* Implemented monitoring and error handling mechanisms
+
+---
+
+## ☁️ Cloud-Based Data Pipeline (ADF Mini Project)
+
+**Azure Data Factory · SQL Server · Workflow Automation**
+
+A cloud-based automated data ingestion and workflow automation project built using Azure Data Factory.
+
+### Key Features
+
+* Automated data ingestion pipeline
+* SQL-based data integration
+* Workflow scheduling and monitoring
+* Pipeline troubleshooting and error handling
+
+### Technical Highlights
+
+* Built data workflows using Azure Data Factory
+* Automated pipeline execution and monitoring
+* Integrated data into SQL-based warehouse systems
+* Implemented debugging and monitoring workflows
+
+---
+
+# 🧩 Problem Solving
+
+* Practicing Data Structures & Algorithms regularly
+* Strong understanding of:
+
+  * Arrays
+  * Strings
+  * Linked Lists
+  * Recursion
+  * Trees
+  * Searching & Sorting
+* Solving coding interview questions on platforms like LeetCode and GeeksforGeeks
+* Improving problem-solving and debugging skills continuously
+
+---
+
+# 📚 Education
+
+## 🎓 Bachelor of Computer Applications (BCA)
+
+**Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon**
+2023 – 2026 (Expected)
+**CGPA: 9.17 / 10**
+
+## 🏫 HSC – Maharashtra State Board
+
+2021 – 2022
+Percentage: 68.67%
+
+---
+
+# 🏆 Achievements & Learning
+
+* Built multiple backend and data engineering projects
+* Practiced advanced SQL concepts:
+
+  * Joins
+  * Aggregations
+  * Subqueries
+  * Window Functions
+* Learning Azure Data Engineering tools and Snowflake
+* Exploring cloud-based data workflows and automation
+* Familiar with AI-assisted coding and debugging tools
+
+---
+
+# 📈 Current Learning Goals
+
+* Advanced Spring Boot
+* Microservices Architecture
+* System Design Basics
+* Cloud Data Engineering
+* Snowflake & Azure Ecosystem
+* Advanced SQL Optimization
+* Scalable ETL Pipelines
+
+---
+
+# 🌐 Connect With Me
+
+* 📧 Email: [swapnilpawar0204@gmail.com](mailto:swapnilpawar0204@gmail.com)
+* 💼 LinkedIn: Add Your LinkedIn Link
+* 💻 GitHub: [https://github.com/swapnilpawar0204](https://github.com/swapnilpawar0204)
+* 🧩 LeetCode: Add Your LeetCode Profile
+
+---
+
+# 📊 GitHub Profile Summary
+
+* Backend Developer focused on Java & Spring Boot
+* Aspiring Data Engineer with ETL and Azure exposure
+* Strong SQL and database fundamentals
+* Passionate about scalable systems and clean architecture
+* Open to Java Backend Developer, SQL Developer, Data Engineer, ETL Support, and Analyst Trainee opportunities
+
+---
+
+⭐ Building projects, improving problem-solving skills, and learning scalable software & data engineering systems.

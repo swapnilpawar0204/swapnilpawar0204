@@ -47,10 +47,15 @@
 
 ### 📌 Featured Projects
 
-**[Billing Data Migration Pipeline](https://github.com/swapnilpawar0204)** — Python | SQL | REST APIs | JSON
-End-to-end pipeline automating billing-data transformations; integrates third-party REST APIs, with validation, cleansing, and reconciliation scripts feeding a target MySQL database.
+**[Billing Data Migration Pipeline]** — Python, FastAPI, MySQL, Docker, GitHub Actions
+•Built a containerized ETL pipeline to ingest, validate, transform, and migrate billing data into MySQL using 
+Python, FastAPI, and SQLAlchemy.
+•Implemented idempotent migration, duplicate detection, transaction rollback, and data reconciliation for 
+reliable processing.
+•Added 61 automated tests, structured error handling, Docker Compose, and GitHub Actions CI for automated 
+quality checks and Docker builds.
 
-**[Retail Data Pipeline](https://github.com/swapnilpawar0204)** — Python | SQL | Pandas
+**[Retail Data Pipeline]** — Python, SQL, Pandas
 ETL pipeline for retail datasets covering extraction, transformation, cleaning, and validation with Pandas, loading structured data into SQL for analytics and reporting.
 
 
